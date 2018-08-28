@@ -7,6 +7,12 @@ public class App
         //Zadanie 1
         Processing.mainMenu();
 
-
+        //Zadanie 2
+        CarsOperations operation = new CarsOperations();
+        operation.addList1();
+        operation.addList2();
+        System.out.println();
+        operation.put();
+        
     }
 }
