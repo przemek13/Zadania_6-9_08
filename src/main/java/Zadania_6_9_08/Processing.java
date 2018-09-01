@@ -8,6 +8,7 @@ public class Processing {
 
     static Scanner input = new Scanner(System.in);
 
+    //TODO o to chodziło ;)
     public static <T extends Data> void send(T email) {
         System.out.println("Your e-mail has been sent.");
     }

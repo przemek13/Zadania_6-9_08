@@ -1,6 +1,8 @@
 package Zadania_6_9_08;
 
 public class Audi extends Car {
+
+    //TODO pole powinno być prywatne
     AudiModels model;
 
     public Audi(int id, Brands brand, int productionYear, double engineSize, AudiModels model) {

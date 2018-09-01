@@ -5,7 +5,7 @@ public class App
     public static void main( String[] args )
     {
         //Zadanie 1
-        Processing.mainMenu();
+        //Processing.mainMenu();
 
         //Zadanie 2
         CarsOperations operation = new CarsOperations();

@@ -3,6 +3,7 @@ package Zadania_6_9_08;
 import java.util.List;
 
 public class Dealer {
+    //TODO pola powinny być prywatne
     String dealerName;
     String Address;
     List<? extends Car> carsList;

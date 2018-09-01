@@ -2,6 +2,7 @@ package Zadania_6_9_08;
 
 public class BMW extends Car {
 
+    //TODO pole powinno być prywatne
     BMWModels model;
 
     public BMW(int id, Brands brand, int productionYear, double engineSize, BMWModels model) {

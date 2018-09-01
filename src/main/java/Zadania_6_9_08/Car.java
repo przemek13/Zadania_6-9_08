@@ -2,6 +2,7 @@ package Zadania_6_9_08;
 
 public abstract class Car {
 
+    //TODO pola powinny być prywatne
     int id;
     Brands brand;
     int productionYear;
